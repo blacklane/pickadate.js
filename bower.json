@@ -1,14 +1,7 @@
 {
   "name": "pickadate",
   "description": "The mobile-friendly, responsive, and lightweight jQuery date & time input picker.",
-  "main": [
-    "lib/picker.js",
-    "lib/picker.date.js",
-    "lib/picker.time.js",
-    "lib/themes/default.css",
-    "lib/themes/default.date.css",
-    "lib/themes/default.time.css"
-  ],
+  "main": "lib/index.js",
   "license": "MIT",
   "ignore": [
     "*.md",
