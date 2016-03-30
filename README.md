@@ -2,11 +2,10 @@
 
 The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 
-[![Build status: master](https://travis-ci.org/amsul/pickadate.js.svg?branch=master)](https://travis-ci.org/amsul/pickadate.js) <sup>[`master`](https://github.com/amsul/pickadate.js/tree/master)</sup>
-<sup>&nbsp;&nbsp;&nbsp;</sup>
-[![Build status: dev](https://travis-ci.org/amsul/pickadate.js.svg?branch=dev)](https://travis-ci.org/amsul/pickadate.js) <sup>[`dev`](https://github.com/amsul/pickadate.js/tree/dev)</sup>
-<sup>&nbsp;&nbsp;&nbsp;</sup>
-[![pickadate dev dependencies status](https://david-dm.org/amsul/pickadate.js/dev-status.svg)](https://david-dm.org/amsul/pickadate.js#info=devDependencies)
+[![build status: master](https://img.shields.io/travis/blacklane/pickadate.js/master.svg?style=flat-square)](https://travis-ci.org/blacklane/pickadate.js) <sup>[`master`](https://github.com/blacklane/pickadate.js/)</sup>
+[![build status: dev](https://img.shields.io/travis/blacklane/pickadate.js/dev.svg?style=flat-square)](https://travis-ci.org/blacklane/pickadate.js) <sup>[`dev`](https://github.com/blacklane/pickadate.js/tree/dev)</sup>
+[![dependencies status](https://img.shields.io/david/blacklane/pickadate.js/master.svg?style=flat-square)](https://david-dm.org/blacklane/pickadate.js)
+[![dev dependencies status](https://img.shields.io/david/dev/blacklane/pickadate.js/master.svg?style=flat-square)](https://david-dm.org/blacklane/pickadate.js#info=devDependencies)
 
 
 #### To get started, check out the:
